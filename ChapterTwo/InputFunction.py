@@ -5,4 +5,4 @@ print("Number 1 is: ", a)
 print("Number 2 is: ", b)
 print("Sum is", a + b)
 
-print("The square of a is:", a ** 2)
+print("The square of a is:", a ** 2) # squaring
