@@ -9,3 +9,7 @@ a = 4 - 1
 b = 6
 b += 3
 print(b)
+
+# Comparison operator
+d = 5>6
+print(d)
