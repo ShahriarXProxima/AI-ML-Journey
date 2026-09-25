@@ -1,3 +1,5 @@
 a = "32.1"
-t = type(a)
+b = float(a)
+t = type(b)
 print(t)
+print(b)
