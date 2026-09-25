@@ -1,0 +1,11 @@
+# Arithmetic operators
+a = 8
+b = 9
+c = a + b
+print(c)
+
+# Assignment operators
+a = 4 - 1
+b = 6
+b += 3
+print(b)
