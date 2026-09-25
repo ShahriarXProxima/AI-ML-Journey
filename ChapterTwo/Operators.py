@@ -19,3 +19,4 @@ print(d)
 # Logical operator
 e = True and False
 print(e)
+print(not False)
