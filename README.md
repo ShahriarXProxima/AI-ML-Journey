@@ -83,7 +83,7 @@ Covers Python's OOP paradigm and class mechanics:
 | File | Concept Demonstrated |
 | :--- | :--- |
 | `Class.py` | Defining a class with class attributes and instantiating objects |
-| `Constractor.py` | Initializing object state with `__init__` |
+| `Constructor.py` | Initializing object state with `__init__` |
 | `Self_parameter.py` | Instance methods and how `self` binds to the calling instance |
 | `Static_methods.py` | Class-level utility methods using the `@staticmethod` decorator |
 | `Getter_setter.py` | Encapsulating attributes with `@property` and `@<attr>.setter` |
@@ -114,7 +114,7 @@ Hands-on scripts exploring NumPy's `ndarray` and vectorized operations:
 | File | Topics Covered |
 | :--- | :--- |
 | `Version_check.py` | Checking the installed NumPy version |
-| `Multidimentional_array.py` | Creating `0D`, `1D`, `2D`, and `3D` arrays; inspecting `.ndim`, `.shape`, and multi-axis indexing |
+| `Multidimensional_array.py` | Creating `0D`, `1D`, `2D`, and `3D` arrays; inspecting `.ndim`, `.shape`, and multi-axis indexing |
 | `Dtypes.py` | Explicit data types (`np.str_`, `<U6`), `.dtype`, and memory footprint (`.nbytes`) |
 | `NumPy_functions.py` | Array initialization with `np.zeros()` |
 | `Reshape.py` | Changing dimensions with `.reshape()` (including `-1` inferred dimensions) |
